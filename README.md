@@ -1,6 +1,6 @@
 # Blockchain Assignment 2 | Ethereum and Smart Contracts
 
-The implementation of the Smart Contract and tests are based on [this video](https://www.youtube.com/watch?v=DKFVnGcMTD0&t=1074s). To add my own contribution, I have added a function that allows users to transfer deposited funds between each other. A test has also been added for this function.
+The implementation of the Smart Contract and tests are based on [this video](https://www.youtube.com/watch?v=DKFVnGcMTD0&). To add my own contribution, I have added a function that allows users to transfer deposited funds between each other. A test has also been added for this function.
 
 ---
 ## Deployment
