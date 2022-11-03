@@ -25,3 +25,7 @@ To run the tests, use the command: `truffle test`
 
 
 ![Tests Verification](./images/tests.png)
+
+---
+## Optional web app
+A web app that interacts with the smart contract has not been implemented
